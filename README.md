@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohit Kedia</h1>
-<h3 align="center">Data Enthusiast | Business Analyst | Storyteller in SQL and Dashboards</h3>
+<h1 align="center">Hi 👋, I'm Mohit Kedia< |IITian/h1>
+<h3 align="center">Data Enthusiast | Business Analyst | Storyteller in SQL and Dashboards | </h3>
 
 This is my personal portfolio showcasing Machine Learning and Data Analytics projects
 
